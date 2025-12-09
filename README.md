@@ -1,3 +1,5 @@
+![game preview](/preview.png "Preview")
+
 # DogRPG - A "Vibe Coded" Phaser 3 Project
 
 ![DogRPG Banner](https://img.shields.io/badge/Status-Prototype-orange) ![License](https://img.shields.io/badge/License-MIT-blue)
